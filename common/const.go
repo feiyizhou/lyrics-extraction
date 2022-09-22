@@ -1,7 +1,7 @@
 package common
 
 const (
-	BaseURL     = "https://raasr.xfyun.cn/v2/api/%s"
+	BaseURL     = "https://raasr.xfyun.cn/v2/api/"
 	Upload      = "upload"
 	GetResult   = "getResult"
 	ContentType = "application/json; charset=UTF-8,Chunked: false"
